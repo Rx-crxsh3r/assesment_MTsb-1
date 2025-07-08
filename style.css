@@ -1,0 +1,29 @@
+body {
+  margin: 40px;
+  font-family: sans-serif;
+  background-color: #fff;
+  color: #333;
+  text-align: center;
+}
+
+h2 {
+  margin-bottom: 10px;
+}
+
+table {
+  margin: 0 auto 30px auto; /* center horizontally and add spacing below */
+  border-collapse: collapse;
+  width: auto;
+  min-width: 250px;
+  font-size: 14px;
+}
+
+th, td {
+  border: 1px solid #ccc;
+  padding: 6px 10px;
+  text-align: left;
+}
+
+th {
+  background-color: #f2f2f2;
+}
